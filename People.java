@@ -31,7 +31,7 @@ public class People {
 
 }
 
-    public Hero(String name, String genero, String birthday )  {
+    public People(String name, String genero, String birthday )  {
 
         this.name = name;
         this.genero=genero;
